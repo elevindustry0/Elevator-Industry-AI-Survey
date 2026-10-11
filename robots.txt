@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace this URL with your actual GitHub Pages sitemap URL.
+Sitemap: https://elevindustry0.github.io/Elevator-Industry-AI-Survey/sitemap.xml
